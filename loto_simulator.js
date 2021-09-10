@@ -1,9 +1,3 @@
-// Créer un objet NewGame
-	// round : round numéro
-	// currentPlayers : liste des joueurs en jeu
-		// currentPlayers.length => nombres de joueurs en jeu
-		// placer les 80 joueurs dans ce tableau au début d'un NewGame
-	// méthode playGame
 class NewGame {
 	constructor(round, currentPlayers) 
 	{
@@ -12,9 +6,6 @@ class NewGame {
 	}
 }
 
-// Créer une classe Player
-	// id : #numero du joueur
-	// carte : [tableau des numéros de la carte du joueur]
 class Player {
 	constructor(id, carte)
 	{
@@ -23,10 +14,6 @@ class Player {
 	}
 }
 
-// Fonction startNewGame()
-	// Lors d'une NewGame, créer 80 instances de Player (avec id de 0 à 80) -> makePlayers()
-		// créer et attribuer la carte -> makeCarte()
-	// placer tous les joueurs dans le tableau currentPlayers au début d'un NewGame
 function startNewGame()
 {
 	let game = new NewGame(1, makePlayers(80));
@@ -56,7 +43,7 @@ function makeCarte()
 
 	while (carte.length < 15)
 	{
-		// puis, tant qu'on a pas 15 nombres, (en proba de 1 fois sur 3) on insère 1 numéro par dizaine
+		// puis, tant qu'on a pas 15 nombres, (1 fois sur 3 au hasard) on insère 1 numéro par dizaine
 		if(dizaine === 9) dizaine = 0;
 		let proba = getRandomInt(3);
 		if(proba === 0)
@@ -96,14 +83,10 @@ function getRandomInt(max) {
 }
 
 /* ///////////////////////////////////////////////////////////////////////////////////////// */
-// !!!!!!!!!!!!!!!!!!!!!!! PREMIER TEST DU DEBUT DE PARTIE ICI !!!!!!!!!!!!!!!!!!!!!!!
+// !!!!!!!!!!!!!!!!!!!!!!! PREMIER TEST, ATTRIBUTION DES CARTES AUX JOUEURS !!!!!!!!!!!!!!!!!!!
 // console.log(JSON.stringify(startNewGame()));
-
-//Affiche les 9 premiers joueurs :
-
 // for (let i = 1 ; i < 10 ; i ++)
 // 	console.log('Joueur ' + i + ' : ' + JSON.stringify(startNewGame().currentPlayers[i].carte));
-
 /* ///////////////////////////////////////////////////////////////////////////////////////// */
 /* ///////////////////////////////////////////////////////////////////////////////////////// */
 
@@ -121,7 +104,7 @@ function playGame(obj)
 
 	console.log('NEW GAME');
 
-	//////////////////////////////////////// TESTS ////////////////////////////////////////
+	///////////////////////////// affichage des joueurs et du sac /////////////////////////////
 	console.log('Numéros dans le sac : ');
 	console.log(remainingNumbers);
 	for (let player in currentPlayers)
@@ -190,17 +173,6 @@ function eliminatePlayers(currentPlayers, shoutedNumber)
 
 /* ///////////////////////////////////////////////////////////////////////////////////////// */
 // !!!!!!!!!!!!!!!!!!!!!!! DEUXIEME TEST POUR JOUER LA PARTIE ICI !!!!!!!!!!!!!!!!!!!!!!!
-
-//Affiche les 9 premiers joueurs :
-
-// for (let i = 1 ; i < 10 ; i ++)
-// 	console.log('Joueur ' + i + ' : ' + JSON.stringify(startNewGame().currentPlayers[i].carte));
-
-
-//  :
-
 playGame(startNewGame());
-// 
-
 /* ///////////////////////////////////////////////////////////////////////////////////////// */
 /* ///////////////////////////////////////////////////////////////////////////////////////// */
