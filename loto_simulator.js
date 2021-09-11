@@ -171,6 +171,5 @@ function eliminatePlayers(currentPlayers, shoutedNumber)
 }
 
 
-/* ///////////////////////////////////////////////////////////////////////////////////////// */
 // !!!!!!!!!!!!!!!!!!!!!!! DEUXIEME TEST POUR JOUER LA PARTIE ICI !!!!!!!!!!!!!!!!!!!!!!!
 playGame(startNewGame());
