@@ -127,7 +127,7 @@ function playGame(obj)
 		console.log('Nombre de joueurs restant en jeu : ' + currentPlayers.length);
 		roundNo++;
 	}
-	console.log('\nFinal round : ' + (roundNo - 1));
+	console.log('\n************************************************\nFinal round : ' + (roundNo - 1) + '\n************************************************');
 	return 'Game terminé';
 }
 

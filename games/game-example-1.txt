@@ -1,3 +1,4 @@
+
 ************************ NEW GAME ************************
 
 Numéros dans le sac : 
@@ -277,4 +278,6 @@ Numéro crié :
 Nombre de joueurs éliminés dans ce round : 1
 Nombre de joueurs restant en jeu : 1
 
+************************************************
 Final round : 26
+************************************************
