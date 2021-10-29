@@ -1,4 +1,5 @@
-NEW GAME
+************************ NEW GAME ************************
+
 Numéros dans le sac : 
 [
    1,  2,  3,  4,  5,  6,  7,  8,  9, 10, 11, 12,
@@ -10,231 +11,270 @@ Numéros dans le sac :
   73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84,
   85, 86, 87, 88, 89, 90
 ]
-Joueur 0 : [4,10,14,28,30,34,38,43,49,54,59,68,70,73,80]
-Joueur 1 : [8,11,12,22,23,25,34,36,40,51,56,62,75,84,88]
-Joueur 2 : [3,9,17,29,33,38,45,50,53,68,72,75,82,85,89]
-Joueur 3 : [3,7,11,17,22,23,36,41,42,50,55,60,72,81,87]
-Joueur 4 : [5,19,22,26,28,33,36,46,50,60,68,74,76,83,88]
-Joueur 5 : [3,8,11,16,24,27,32,38,43,46,53,60,63,72,80]
-Joueur 6 : [1,13,26,35,36,40,43,45,57,61,67,74,76,79,85]
-Joueur 7 : [8,10,11,13,27,32,38,48,50,52,65,69,74,80,88]
-Joueur 8 : [1,12,15,20,23,39,41,45,51,59,63,74,79,82,88]
-Joueur 9 : [5,8,14,18,26,31,34,39,44,45,52,54,62,79,87]
-Joueur 10 : [2,8,16,20,28,32,44,51,57,61,66,72,80,86,90]
-Joueur 11 : [1,2,9,13,15,22,27,30,32,40,46,59,62,76,86]
-Joueur 12 : [4,15,22,29,32,36,37,43,44,49,52,60,70,77,90]
-Joueur 13 : [3,8,14,17,24,33,35,46,48,52,68,73,76,82,89]
-Joueur 14 : [1,5,11,16,24,35,38,39,40,46,51,67,78,88,89]
-Joueur 15 : [1,7,14,18,22,31,39,40,49,52,57,64,71,76,88]
-Joueur 16 : [3,7,19,22,23,30,32,42,58,60,64,74,76,89,90]
-Joueur 17 : [1,3,5,12,27,30,37,44,51,52,67,73,74,79,90]
-Joueur 18 : [2,14,20,30,38,45,49,54,57,68,69,72,77,78,83]
-Joueur 19 : [7,16,24,29,35,42,44,47,51,63,67,68,71,77,88]
-Joueur 20 : [4,11,18,19,27,29,37,45,49,56,63,69,72,77,84]
-Joueur 21 : [1,9,11,15,22,35,36,45,47,52,59,68,77,84,89]
-Joueur 22 : [4,6,13,16,27,33,37,38,41,54,62,65,71,79,88]
-Joueur 23 : [1,7,8,16,19,21,39,42,48,51,59,69,72,81,86]
-Joueur 24 : [1,7,16,22,28,36,39,47,50,52,57,61,65,75,88]
-Joueur 25 : [3,5,10,22,24,35,41,46,54,56,63,68,70,75,85]
-Joueur 26 : [1,4,6,10,12,24,38,46,49,54,55,61,67,78,81]
-Joueur 27 : [4,6,15,18,23,25,39,43,44,45,53,60,69,75,86]
-Joueur 28 : [6,8,11,20,32,35,42,50,64,67,68,70,73,86,90]
-Joueur 29 : [8,11,16,17,26,32,36,42,46,48,55,56,65,75,90]
-Joueur 30 : [4,13,26,28,30,32,33,41,55,58,59,62,70,73,82]
-Joueur 31 : [6,7,12,16,20,27,32,35,41,43,56,68,72,77,88]
-Joueur 32 : [6,9,13,17,18,22,35,47,52,55,62,66,71,85,86]
-Joueur 33 : [3,11,20,27,33,35,39,41,53,59,62,69,77,82,83]
-Joueur 34 : [1,15,18,24,29,36,43,55,56,65,69,70,77,82,83]
-Joueur 35 : [6,10,17,26,31,33,40,43,44,58,64,69,74,79,86]
-Joueur 36 : [2,9,13,17,18,24,31,42,44,51,63,65,77,82,88]
-Joueur 37 : [3,10,14,16,29,33,36,48,56,60,66,69,74,78,82]
-Joueur 38 : [4,7,15,24,29,32,37,39,45,48,52,69,74,75,80]
-Joueur 39 : [5,6,11,13,17,20,21,36,45,52,53,64,75,82,85]
-Joueur 40 : [5,9,12,14,20,22,32,36,43,47,55,64,69,74,88]
-Joueur 41 : [2,6,10,26,29,36,42,44,51,52,60,71,85,86,90]
-Joueur 42 : [4,7,8,15,22,28,39,46,53,56,60,67,71,82,87]
-Joueur 43 : [2,5,13,25,28,30,36,47,52,58,61,68,72,77,86]
-Joueur 44 : [9,15,16,24,29,35,45,48,54,62,66,69,72,76,82]
-Joueur 45 : [2,3,16,17,26,27,36,39,47,55,59,62,64,70,90]
-Joueur 46 : [1,7,11,13,20,21,23,38,40,45,58,62,75,86,88]
-Joueur 47 : [2,4,18,23,31,33,35,47,53,62,66,76,79,81,85]
-Joueur 48 : [1,4,17,21,28,35,38,41,45,54,56,63,71,78,85]
-Joueur 49 : [5,13,20,25,30,42,43,53,56,64,67,72,75,87,88]
-Joueur 50 : [6,7,9,15,18,21,26,30,36,40,57,61,70,77,88]
-Joueur 51 : [1,3,16,27,34,42,43,44,52,54,64,70,73,88,89]
-Joueur 52 : [2,8,18,25,26,36,49,56,57,62,67,70,73,87,88]
-Joueur 53 : [1,3,15,23,26,30,31,42,44,53,61,67,70,75,84]
-Joueur 54 : [4,6,10,14,25,28,34,41,52,53,61,67,76,82,83]
-Joueur 55 : [2,7,12,20,39,42,45,50,54,56,61,64,74,80,81]
-Joueur 56 : [1,2,7,10,13,27,36,48,54,58,60,62,65,72,90]
-Joueur 57 : [5,8,12,20,28,36,47,56,61,63,69,70,71,81,83]
-Joueur 58 : [3,4,5,8,19,29,37,40,46,50,53,61,71,77,82]
-Joueur 59 : [7,10,12,23,29,30,33,41,45,50,60,62,72,78,88]
-Joueur 60 : [7,10,11,26,28,31,38,44,51,54,57,61,77,84,86]
-Joueur 61 : [8,12,28,35,40,41,47,50,54,63,65,71,77,82,88]
-Joueur 62 : [2,3,6,10,23,33,39,44,52,59,63,68,71,84,90]
-Joueur 63 : [6,7,8,12,13,22,25,33,43,44,50,57,61,79,87]
-Joueur 64 : [1,8,14,17,27,36,46,51,52,60,63,70,73,82,84]
-Joueur 65 : [2,3,11,18,23,38,44,47,50,61,65,69,72,80,84]
-Joueur 66 : [5,18,24,35,42,54,58,59,61,64,67,74,75,86,88]
-Joueur 67 : [2,4,14,18,28,30,31,49,50,56,60,66,73,83,87]
-Joueur 68 : [9,14,17,18,26,28,38,40,47,58,62,72,78,80,84]
-Joueur 69 : [2,3,15,19,29,30,35,40,46,51,53,69,74,87,90]
-Joueur 70 : [8,15,24,28,35,44,54,57,58,62,65,74,76,77,80]
-Joueur 71 : [5,8,17,26,29,33,35,45,48,52,55,69,79,84,87]
-Joueur 72 : [2,3,10,23,29,30,31,40,52,62,66,71,75,82,83]
-Joueur 73 : [5,6,10,22,32,41,55,56,60,64,75,76,84,85,86]
-Joueur 74 : [5,18,19,29,30,33,38,42,45,49,52,55,62,78,81]
-Joueur 75 : [1,15,18,27,32,39,42,47,55,56,63,68,78,84,87]
-Joueur 76 : [7,8,10,17,29,30,38,41,47,58,59,64,71,73,85]
-Joueur 77 : [1,11,17,22,29,31,38,40,50,56,61,71,78,87,90]
-Joueur 78 : [2,18,24,29,34,37,46,48,50,57,63,64,68,77,80]
-Joueur 79 : [5,14,22,24,27,30,33,41,45,58,69,74,75,80,83]
+
+Cartes des joueurs :
+
+Joueur 0 : [4,10,11,14,28,34,40,42,46,52,60,69,79,84,87]
+Joueur 1 : [7,10,24,25,29,31,36,43,50,55,69,72,79,86,87]
+Joueur 2 : [1,5,10,18,21,33,44,48,52,54,58,64,74,77,84]
+Joueur 3 : [2,9,12,13,23,25,32,35,38,48,50,63,67,79,82]
+Joueur 4 : [2,17,22,23,24,27,31,34,41,54,57,64,74,81,87]
+Joueur 5 : [1,7,12,14,19,24,25,33,48,50,59,65,69,78,85]
+Joueur 6 : [6,14,18,20,31,35,39,41,51,53,56,62,71,82,90]
+Joueur 7 : [7,8,13,22,24,31,46,47,51,56,61,68,77,84,85]
+Joueur 8 : [8,13,17,27,30,44,47,49,50,52,60,66,75,79,83]
+Joueur 9 : [5,8,9,10,24,35,36,44,48,56,64,68,72,79,80]
+Joueur 10 : [3,6,10,18,20,25,35,42,45,59,60,61,72,76,87]
+Joueur 11 : [4,6,10,15,17,27,37,45,46,56,59,64,67,70,88]
+Joueur 12 : [4,12,17,21,28,33,49,57,58,65,67,72,78,85,88]
+Joueur 13 : [3,6,14,18,23,27,28,36,44,54,61,68,78,82,86]
+Joueur 14 : [3,5,6,10,14,20,23,31,43,48,59,61,67,75,90]
+Joueur 15 : [7,8,16,18,25,32,35,49,51,56,61,68,76,80,88]
+Joueur 16 : [6,9,11,19,20,36,44,50,65,66,70,74,78,81,84]
+Joueur 17 : [5,7,9,15,22,24,37,40,52,60,74,77,78,81,87]
+Joueur 18 : [3,5,11,17,26,30,39,43,48,52,62,63,77,88,90]
+Joueur 19 : [2,10,14,25,29,34,41,49,50,53,69,72,79,82,85]
+Joueur 20 : [3,6,15,21,22,31,45,48,49,59,64,67,68,70,85]
+Joueur 21 : [9,11,25,27,29,31,32,45,49,52,61,67,75,79,90]
+Joueur 22 : [1,12,21,35,42,57,60,67,71,75,78,81,83,87,90]
+Joueur 23 : [4,9,13,22,24,30,42,47,54,58,66,71,79,86,87]
+Joueur 24 : [1,12,22,27,28,36,40,44,47,52,69,70,72,84,89]
+Joueur 25 : [5,8,13,28,33,37,43,44,46,52,66,69,72,76,82]
+Joueur 26 : [9,17,23,30,40,42,54,58,59,63,77,78,84,85,87]
+Joueur 27 : [1,6,7,18,22,33,34,38,45,55,56,67,69,71,90]
+Joueur 28 : [7,9,19,21,22,27,30,32,36,46,53,61,71,83,89]
+Joueur 29 : [4,11,25,29,39,46,47,52,58,59,60,76,79,89,90]
+Joueur 30 : [4,6,7,13,18,22,32,35,46,57,64,69,71,77,85]
+Joueur 31 : [8,9,11,14,19,26,31,43,50,59,62,63,72,87,90]
+Joueur 32 : [5,15,19,26,34,36,40,52,55,66,70,73,74,80,90]
+Joueur 33 : [7,13,17,21,33,35,39,48,49,52,57,60,71,84,86]
+Joueur 34 : [7,19,20,35,36,40,45,52,57,63,64,67,71,78,90]
+Joueur 35 : [9,14,15,16,20,30,37,49,54,59,64,66,71,81,86]
+Joueur 36 : [4,6,9,10,25,26,31,35,44,54,58,63,71,83,89]
+Joueur 37 : [1,7,15,17,21,37,39,47,48,53,58,69,78,79,85]
+Joueur 38 : [2,19,23,28,31,38,39,42,54,56,61,64,74,75,87]
+Joueur 39 : [7,11,20,29,33,38,41,48,49,59,64,67,70,78,87]
+Joueur 40 : [5,9,11,20,27,33,46,48,57,60,67,77,79,80,81]
+Joueur 41 : [3,10,22,24,30,40,45,51,52,61,64,66,76,78,84]
+Joueur 42 : [3,5,16,17,21,38,40,44,51,56,57,62,75,80,83]
+Joueur 43 : [1,7,13,26,33,35,41,43,58,63,67,77,78,80,88]
+Joueur 44 : [9,15,22,24,34,37,41,48,53,65,69,70,76,80,81]
+Joueur 45 : [2,9,12,21,25,31,42,44,47,55,57,66,74,78,80]
+Joueur 46 : [3,10,13,18,28,33,36,38,48,52,62,63,72,79,86]
+Joueur 47 : [2,4,11,21,24,27,30,31,43,56,63,69,73,79,83]
+Joueur 48 : [6,8,14,15,20,21,34,39,40,41,56,64,65,73,84]
+Joueur 49 : [8,14,19,20,22,37,38,42,52,59,63,68,79,80,89]
+Joueur 50 : [1,3,8,13,17,26,30,42,52,58,66,67,74,84,85]
+Joueur 51 : [3,7,15,17,21,29,32,34,40,53,54,60,74,81,88]
+Joueur 52 : [6,8,18,20,31,36,42,45,52,54,59,67,69,73,90]
+Joueur 53 : [9,11,17,20,35,39,48,49,51,56,57,66,69,72,86]
+Joueur 54 : [6,10,13,19,23,31,45,49,52,62,69,70,77,82,89]
+Joueur 55 : [3,7,12,18,20,24,37,45,51,56,65,67,74,81,90]
+Joueur 56 : [2,7,12,15,29,35,42,47,51,63,68,76,79,82,86]
+Joueur 57 : [3,7,13,14,28,32,35,42,55,58,69,70,72,81,86]
+Joueur 58 : [4,16,22,29,31,36,38,40,52,53,58,62,72,78,84]
+Joueur 59 : [6,15,16,28,39,41,43,46,50,54,61,62,70,79,82]
+Joueur 60 : [2,3,14,26,29,35,37,48,51,57,63,64,75,80,85]
+Joueur 61 : [3,8,11,16,23,29,36,47,51,62,64,74,78,80,89]
+Joueur 62 : [3,10,16,21,22,24,34,39,40,49,59,63,78,82,89]
+Joueur 63 : [2,3,14,19,23,28,38,44,57,60,64,71,79,82,83]
+Joueur 64 : [3,8,16,19,24,36,37,46,48,51,57,67,73,78,85]
+Joueur 65 : [4,13,24,29,31,32,38,46,53,61,62,69,73,81,86]
+Joueur 66 : [4,7,9,10,26,27,31,43,47,50,59,66,68,76,84]
+Joueur 67 : [2,8,19,26,29,38,44,51,53,54,61,67,74,78,85]
+Joueur 68 : [2,9,12,15,24,26,31,48,49,58,63,71,78,79,90]
+Joueur 69 : [1,3,9,10,18,21,34,40,48,59,63,66,73,81,87]
+Joueur 70 : [3,4,17,24,33,34,41,47,51,61,62,73,74,83,85]
+Joueur 71 : [3,6,9,18,20,21,32,41,43,53,58,68,72,82,83]
+Joueur 72 : [6,19,21,30,31,32,41,43,47,57,63,68,70,85,90]
+Joueur 73 : [5,8,13,15,24,38,44,51,52,63,67,76,77,81,90]
+Joueur 74 : [7,17,25,34,37,40,46,50,53,60,65,68,78,86,88]
+Joueur 75 : [1,18,20,27,30,43,44,47,54,64,68,72,73,78,81]
+Joueur 76 : [9,15,20,25,30,40,42,57,60,69,70,73,76,81,89]
+Joueur 77 : [4,8,12,19,21,29,36,44,49,55,61,62,71,75,82]
+Joueur 78 : [3,4,11,15,25,29,34,35,40,56,61,66,79,88,90]
+Joueur 79 : [3,10,16,26,36,39,43,54,60,73,76,77,78,82,83]
 
 
 ROUND 1
 Numéro crié : 
-31
-Nombre de joueurs éliminés dans ce round : 10
-Nombre de joueurs restant en jeu : 70
+90
+Nombre de joueurs éliminés dans ce round : 16
+Nombre de joueurs restant en jeu : 64
 
 
 ROUND 2
 Numéro crié : 
-59
+53
 Nombre de joueurs éliminés dans ce round : 9
-Nombre de joueurs restant en jeu : 61
+Nombre de joueurs restant en jeu : 55
 
 
 ROUND 3
 Numéro crié : 
-82
-Nombre de joueurs éliminés dans ce round : 13
-Nombre de joueurs restant en jeu : 48
+55
+Nombre de joueurs éliminés dans ce round : 4
+Nombre de joueurs restant en jeu : 51
 
 
 ROUND 4
 Numéro crié : 
-45
-Nombre de joueurs éliminés dans ce round : 10
-Nombre de joueurs restant en jeu : 38
+33
+Nombre de joueurs éliminés dans ce round : 6
+Nombre de joueurs restant en jeu : 45
 
 
 ROUND 5
 Numéro crié : 
-49
-Nombre de joueurs éliminés dans ce round : 4
-Nombre de joueurs restant en jeu : 34
+34
+Nombre de joueurs éliminés dans ce round : 8
+Nombre de joueurs restant en jeu : 37
 
 
 ROUND 6
 Numéro crié : 
-62
-Nombre de joueurs éliminés dans ce round : 8
-Nombre de joueurs restant en jeu : 26
+8
+Nombre de joueurs éliminés dans ce round : 9
+Nombre de joueurs restant en jeu : 28
 
 
 ROUND 7
 Numéro crié : 
-43
-Nombre de joueurs éliminés dans ce round : 3
-Nombre de joueurs restant en jeu : 23
+64
+Nombre de joueurs éliminés dans ce round : 4
+Nombre de joueurs restant en jeu : 24
 
 
 ROUND 8
 Numéro crié : 
-11
-Nombre de joueurs éliminés dans ce round : 2
-Nombre de joueurs restant en jeu : 21
+43
+Nombre de joueurs éliminés dans ce round : 5
+Nombre de joueurs restant en jeu : 19
 
 
 ROUND 9
 Numéro crié : 
-68
-Nombre de joueurs éliminés dans ce round : 3
+35
+Nombre de joueurs éliminés dans ce round : 1
 Nombre de joueurs restant en jeu : 18
 
 
 ROUND 10
 Numéro crié : 
-66
+86
 Nombre de joueurs éliminés dans ce round : 2
 Nombre de joueurs restant en jeu : 16
 
 
 ROUND 11
 Numéro crié : 
-44
-Nombre de joueurs éliminés dans ce round : 3
-Nombre de joueurs restant en jeu : 13
+3
+Nombre de joueurs éliminés dans ce round : 6
+Nombre de joueurs restant en jeu : 10
 
 
 ROUND 12
 Numéro crié : 
-32
-Nombre de joueurs éliminés dans ce round : 2
-Nombre de joueurs restant en jeu : 11
-
-
-ROUND 13
-Numéro crié : 
-4
-Nombre de joueurs éliminés dans ce round : 1
-Nombre de joueurs restant en jeu : 10
-
-
-ROUND 14
-Numéro crié : 
-18
+20
 Nombre de joueurs éliminés dans ce round : 3
 Nombre de joueurs restant en jeu : 7
 
 
-ROUND 15
+ROUND 13
 Numéro crié : 
-61
+77
 Nombre de joueurs éliminés dans ce round : 1
 Nombre de joueurs restant en jeu : 6
 
 
+ROUND 14
+Numéro crié : 
+56
+Nombre de joueurs éliminés dans ce round : 1
+Nombre de joueurs restant en jeu : 5
+
+
+ROUND 15
+Numéro crié : 
+52
+Nombre de joueurs éliminés dans ce round : 0
+Nombre de joueurs restant en jeu : 5
+
+
 ROUND 16
 Numéro crié : 
-2
-Nombre de joueurs éliminés dans ce round : 1
+51
+Nombre de joueurs éliminés dans ce round : 0
 Nombre de joueurs restant en jeu : 5
 
 
 ROUND 17
 Numéro crié : 
-60
+41
 Nombre de joueurs éliminés dans ce round : 0
 Nombre de joueurs restant en jeu : 5
 
 
 ROUND 18
 Numéro crié : 
-42
+9
 Nombre de joueurs éliminés dans ce round : 1
 Nombre de joueurs restant en jeu : 4
 
 
 ROUND 19
 Numéro crié : 
-5
-Nombre de joueurs éliminés dans ce round : 1
-Nombre de joueurs restant en jeu : 3
+36
+Nombre de joueurs éliminés dans ce round : 2
+Nombre de joueurs restant en jeu : 2
 
 
 ROUND 20
 Numéro crié : 
-78
-Nombre de joueurs éliminés dans ce round : 1
+72
+Nombre de joueurs éliminés dans ce round : 0
 Nombre de joueurs restant en jeu : 2
 
 
 ROUND 21
 Numéro crié : 
+85
+Nombre de joueurs éliminés dans ce round : 0
+Nombre de joueurs restant en jeu : 2
+
+
+ROUND 22
+Numéro crié : 
+7
+Nombre de joueurs éliminés dans ce round : 0
+Nombre de joueurs restant en jeu : 2
+
+
+ROUND 23
+Numéro crié : 
+2
+Nombre de joueurs éliminés dans ce round : 0
+Nombre de joueurs restant en jeu : 2
+
+
+ROUND 24
+Numéro crié : 
+80
+Nombre de joueurs éliminés dans ce round : 0
+Nombre de joueurs restant en jeu : 2
+
+
+ROUND 25
+Numéro crié : 
 46
+Nombre de joueurs éliminés dans ce round : 0
+Nombre de joueurs restant en jeu : 2
+
+
+ROUND 26
+Numéro crié : 
+83
 Nombre de joueurs éliminés dans ce round : 1
 Nombre de joueurs restant en jeu : 1
-Final round : 22
+
+Final round : 26

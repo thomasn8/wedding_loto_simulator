@@ -102,11 +102,12 @@ function playGame(obj)
 	for (let i = 0; i < 90; i++) 
 		remainingNumbers[i] = i + 1;
 
-	console.log('NEW GAME');
+	console.log('************************ NEW GAME ************************\n');
 
 	///////////////////////////// affichage des joueurs et du sac /////////////////////////////
 	console.log('Numéros dans le sac : ');
 	console.log(remainingNumbers);
+	console.log('\nCartes des joueurs :\n');
 	for (let player in currentPlayers)
 		console.log('Joueur ' + player + ' : ' + JSON.stringify(currentPlayers[player].carte));
 	//////////////////////////////////////////////////////////////////////////////////////
